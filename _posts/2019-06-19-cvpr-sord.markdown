@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Soft Labels for Ordinal Regression"
+date:   2019-06-19 22:21:59 +00:00
+image: /images/sord.png
+categories: research
+authors: "<strong>Raúl Díaz</strong>, Amit Marathe"
+venue: " Conference on Computer Vision and Pattern Recognition (CVPR)"
+paper: pdfs/sord_cvpr_2019.pdf
+poster: pdfs/sord_cvpr_2019_poster.pdf
+bibtex: bibs/sord.txt
+---

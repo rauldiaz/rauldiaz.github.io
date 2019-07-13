@@ -1,0 +1,7 @@
+@inproceedings{diaz2017cluster,
+  title={Cluster-wise ratio tests for fast camera localization},
+  author={D{\'\i}az, Ra{\'u}l and Fowlkes, Charless C},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={19--28},
+  year={2017}
+}

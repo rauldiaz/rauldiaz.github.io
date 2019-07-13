@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Lifting GIS Maps into Strong Geometric Context for Scene Understanding"
+date:   2016-03-19 22:21:59 +00:00
+image: /images/gis.png
+categories: research
+authors: "<strong>Raúl Díaz</strong>, Minhaeng Lee, Jochen Schubert, Charless Fowlkes"
+venue: "Winter Conference on Applications of Computer Vision (WACV)"
+paper: pdfs/gis_wacv_2016.pdf
+poster: pdfs/gis_wacv_2016_poster.pdf
+bibtex: bibs/gis.txt
+---

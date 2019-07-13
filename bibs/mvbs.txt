@@ -1,0 +1,7 @@
+@inproceedings{diaz2013detecting,
+  title={Detecting dynamic objects with multi-view background subtraction},
+  author={D{\'\i}az, Ra{\'u}l and Hallman, Sam and Fowlkes, Charless C},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={273--280},
+  year={2013}
+}

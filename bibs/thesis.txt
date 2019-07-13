@@ -1,0 +1,6 @@
+@phdthesis{diaz2016strong,
+  title={Strong Geometric Context for Scene Understanding},
+  author={Diaz Garcia, Raul},
+  year={2016},
+  school={UC Irvine}
+}

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Strong Geometric Context for Scene Understanding"
+date:   2016-10-19 22:21:59 +00:00
+image: /images/thesis.png
+categories: thesis
+authors: "<strong>Raúl Díaz</strong>"
+venue: "University of California, Irvine"
+thesis: pdfs/diaz_thesis_2016.pdf
+bibtex: bibs/thesis.txt
+---

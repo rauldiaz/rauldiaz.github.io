@@ -1,0 +1,8 @@
+@inproceedings{diaz2016lifting,
+  title={Lifting gis maps into strong geometric context for scene understanding},
+  author={D{\'\i}az, Ra{\'u}l and Lee, Minhaeng and Schubert, Jochen and Fowlkes, Charless C},
+  booktitle={2016 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={1--9},
+  year={2016},
+  organization={IEEE}
+}

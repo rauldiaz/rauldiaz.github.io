@@ -1,0 +1,7 @@
+@InProceedings{Diaz_2019_CVPR,
+author = {Diaz, Raul and Marathe, Amit},
+title = {Soft Labels for Ordinal Regression},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}

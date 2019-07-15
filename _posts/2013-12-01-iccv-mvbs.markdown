@@ -4,10 +4,12 @@ title:  "Detecting Dynamic Objects with Multi-View Background Subtraction"
 date:   2013-12-19 22:21:59 +00:00
 image: /images/mvbs_iccv13.jpg
 categories: research
-authors: "<strong>Raúl Díaz</strong>, Sam Hallman, Charless Fowlkes"
+authors: "<strong>Raúl Díaz</strong>*, Sam Hallman*, Charless Fowlkes"
 venue: "International Conference on Computer Vision (ICCV)"
 paper: pdfs/mvbs_iccv_2013.pdf
 poster: pdfs/mvbs_iccv_2013_poster.pdf
 supplementary: pdfs/mvbs_iccv_2013_sup.pdf
 bibtex: bibs/mvbs.txt
 ---
+We use Structure from Motion and Multi-View Stereo to unsupervisedly mine hard negatives, and then re-score objec detections based on background masks, achieving up to a 50% boost over baselines.
+<br><br> * equal contribution

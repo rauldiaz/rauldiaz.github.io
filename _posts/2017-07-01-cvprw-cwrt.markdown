@@ -11,3 +11,4 @@ poster: pdfs/cwrt_cvprw_2017_poster.pdf
 bibtex: bibs/cwrt.txt
 code: https://bitbucket.org/rdiazgar/camera-localization
 ---
+We exploit the negligible cost of exploring the adjacent leaves in kd-tree searches to rapidly cast votes on plausible camera locations. We then back-match the scene landmarks against the query image for high quality PnP solving of the 6DOF camera pose.

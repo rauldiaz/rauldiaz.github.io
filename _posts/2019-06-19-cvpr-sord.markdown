@@ -10,4 +10,4 @@ paper: pdfs/sord_cvpr_2019.pdf
 poster: pdfs/sord_cvpr_2019_poster.pdf
 bibtex: bibs/sord.txt
 ---
-A general label formulation of naturally ordered categories that seamlessly blends metric losses and categorical losses. In just <strong> two lines of code </strong>, we improve the state of the art on wildly different datasets challenges.
+A general label formulation of naturally ordered categories that seamlessly blends metric losses and categorical losses. In just <strong> two lines of code </strong>, we improve the state of the art on wildly different tasks.

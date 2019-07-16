@@ -11,5 +11,5 @@ poster: pdfs/mvbs_iccv_2013_poster.pdf
 supplementary: pdfs/mvbs_iccv_2013_sup.pdf
 bibtex: bibs/mvbs.txt
 ---
-We use Structure from Motion and Multi-View Stereo to unsupervisedly mine hard negatives, and then re-score objec detections based on background masks, achieving up to a 50% boost over baselines.
+We use Structure from Motion and Multi-View Stereo to unsupervisedly mine hard negatives, and then re-score object detections based on background masks, achieving up to a 50% boost over baselines.
 <br><br> * equal contribution

@@ -1,0 +1,12 @@
+List of errors found in the paper after publication
+---------------------------------------------------
+
+Figure 2: 
+
+Labels are plotted wrong. We built a 5-by-5 matrix with the SORD label values, where rows were labels and columns were ranks. We inadvertedly swapped the axes when plotting the figure, and used rows as ranks and columns as labels. For instance, this can be seen in the label 'flawed', where values for ranks 1 and 3 should have the same value since they are 1 unit far from the true label, but instead rank 1 has a slightly higher value. This is simply a plotting script bug. All experiments used a correct formulation of the SORD labels.
+
+References:
+
+We forgot to cite the repository of the off-the-shelf Keras implementation of Deeplabv3+, and only cited the original scientific article for this network architecture. We thank Emil Zakirov (@bonlime) for this valuable contribution.
+
+https://github.com/bonlime/keras-deeplab-v3-plus

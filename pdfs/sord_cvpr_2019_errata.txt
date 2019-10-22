@@ -7,6 +7,8 @@ Labels are plotted wrong. We built a 5-by-5 matrix with the SORD label values, w
 
 References:
 
-We forgot to cite the repository of the off-the-shelf Keras implementation of Deeplabv3+, and only cited the original scientific article for this network architecture. We thank Emil Zakirov (@bonlime) for this valuable contribution.
+We forgot to cite the repositories of the off-the-shelf Keras implementations of Deeplabv3+ and FCN, and only cited the original scientific articles for these network architectures. We thank Emil Zakirov (@bonlime) and @aurora95 for these valuable contributions.
 
 https://github.com/bonlime/keras-deeplab-v3-plus
+https://github.com/aurora95/Keras-FCN
+

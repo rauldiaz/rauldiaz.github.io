@@ -10,4 +10,4 @@ paper: pdfs/gis_wacv_2016.pdf
 poster: pdfs/gis_wacv_2016_poster.pdf
 bibtex: bibs/gis.txt
 ---
-We present a Sketchup editing toolbox to turn 2D GIS maps into fully semantic 3D scenes by overlaying geo-registered images. Depth, detection, and segmentation are then improved by injectic geo-semantic features into known specialized algorithms.
+We present a Sketchup editing toolbox to turn 2D GIS maps into fully semantic 3D scenes by overlaying geo-registered images. Depth, detection, and segmentation are then improved by injecting geo-semantic features into known specialized algorithms.

@@ -19,12 +19,12 @@ favicon: images/raul_circle_small.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: rdiazgar@uci.edu
+  email: diaz.raul@gmail.com
   facebook:
   flickr:
   github: rauldiaz
   instagram: 
-  linkedin:
+  linkedin: https://www.linkedin.com/in/raul-diaz-garcia/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: rdiazgar

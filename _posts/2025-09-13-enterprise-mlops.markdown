@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "PointNet for Keras"
-image: /images/pointnet.png
+title:  "AWS Enterprise MLOps Framework"
+image: /images/deploymentcicd.png
 categories: project
-code: https://github.com/HPInc/pointnet-keras
+code: https://github.com/aws-samples/aws-enterprise-mlops-framework
 ---
-Keras implementation of the PointNet 3D classification network.
-- Includes orthogonal regularization of features
-- Optimized for fast training (1D convolutions and fast 2D max-pooling)
-- Achieves similar rates of original paper (~88%-89% accuracy)
+Principal Author of the MLOps@Edge use case template
+- Integrated model approval workflows
+- Automated ONNX model optimization
+- Integrated AWS GreenGrass packaging and deployment

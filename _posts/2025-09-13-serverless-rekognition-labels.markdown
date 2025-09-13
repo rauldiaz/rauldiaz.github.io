@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "PointNet for Keras"
-image: /images/pointnet.png
+title:  "Serverless Amazon Rekognition Custom Labels"
+image: /images/serverless-rekognition.jpg
 categories: project
-code: https://github.com/HPInc/pointnet-keras
+code: https://github.com/aws-samples/serverless-rekognition-custom-labels
 ---
-Keras implementation of the PointNet 3D classification network.
-- Includes orthogonal regularization of features
-- Optimized for fast training (1D convolutions and fast 2D max-pooling)
-- Achieves similar rates of original paper (~88%-89% accuracy)
+Shows how to create an object detection model using Amazon Rekognition Custom Labels.
+- Sets up a serverless architecture to trigger inference on newly uploaded images.
